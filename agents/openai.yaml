@@ -1,0 +1,4 @@
+interface:
+  display_name: "辩论备赛教练"
+  short_description: "全流程辩论备赛、四辩位准备、攻防模拟和跨学科知识训练"
+  default_prompt: "使用 $debate-prep 分析这个辩题，先自动诊断类型，再陪我完成框架、辩位准备与攻防模拟。"
